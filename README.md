@@ -7,7 +7,7 @@
 
 🚧 Untuk melihat dashboard streamlit silahkan kunjungi: https://dicoding-hilma-data.streamlit.app/ 🚧
 
-Dashboard ini akan menunjukkan data pengguna yang teregistrasin maupun casual. Selain itu, ditampilkan grafik mengenai sebaran pengguna pada tiap-tiap musim. Tidak hanya itu, karena akan dilanjutkan dengan grafik scatter plot yang akan memvisualkan jumlah pelanggan saat liburan berdasarkan suhu.
+Dashboard ini akan menunjukkan data pengguna yang teregistrasi maupun casual. Selain itu, ditampilkan grafik mengenai sebaran pengguna pada tiap-tiap musim. Tidak hanya itu, karena akan dilanjutkan dengan grafik scatter plot yang akan memvisualkan jumlah pelanggan saat liburan berdasarkan suhu.
 
 ### Run Streamlit on Local
 
