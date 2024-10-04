@@ -1,4 +1,4 @@
-## Capital Bikeshare: Bikesharing Analysis and Dashboard
+# Capital Bikeshare: Bikesharing Analysis and Dashboard
 
 ## 📝 Analysis with Jupyter Notebook
 
